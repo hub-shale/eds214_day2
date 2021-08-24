@@ -11,7 +11,6 @@ USDA_guess = function(genus, species) {
 }
 
 # test_guess = USDA_guess("Eriogonum", "Inflatum")
-# test_guess
 
 
 
